@@ -1,0 +1,161 @@
+
+  /*top-up*/
+
+.update{
+  height:50px;
+  background-color:rgb(40,39,39);
+  border-bottom:5px solid rgb(164,4,4);
+}
+
+#date p{
+  color:rgb(210,210,210);
+  width:100px;
+  padding:12px;
+  margin-top:-4%;
+  margin-left:2%;
+}
+
+.update input{
+  margin-left:78.5%;
+  margin-top:1%;
+}
+
+.update .serce{
+  margin-left:90%;
+  text-align:center;
+  color:white;
+  margin-top:-2.5%;
+  font-size:22px;
+  cursor:pointer;
+}
+
+    /*navbar*/
+
+.navigation{
+  background-color:rgb(242,241,241);
+  height:200px;
+  padding:10px;
+}
+
+.navigation h1{
+  color:rgb(207,14,1);
+  font-size:50px;
+  padding:10px;
+  cursor:pointer;
+  width:370px;
+}
+
+.navigation h1:hover{
+  color:rgb(1,133,1);
+}
+
+.nav-tabs{
+  width:645px;
+  font-size: 15px;
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+  text-decoration:none;
+  background-color:#fffcfc;
+  color:black;
+}
+
+.nav > li a{
+  text-decoration:none;
+  background-color:#7a0101;
+  color:white;
+}
+
+#navbar .col-lg-9.col-md-9{
+  margin-left:-1.3%;
+}
+
+#navbar .col-lg-3.col-md-9{
+  margin-left:-3%;
+  width:414px;
+}
+
+#navbar i{
+  margin-left:12%;
+  margin-top:13%;
+  font-size:20px;
+  cursor:pointer;
+  height:40px;
+  width:25px;
+  text-align:center;
+  line-height:2;
+  border-radius:30px;
+  color:black;background-color:#7a0101;
+  color:white;
+}
+
+#navbar i:hover{
+  
+  background-color:rgb(194,194,194);
+  color:black;
+}
+
+    /*news-feed*/
+
+#news-feed{
+  background-color:white;
+  margin-top:1%;
+  width:1140px;
+  padding: 10px;
+}
+
+#news-feed .col-md-3{
+  border:2px solid rgb(207,205,205);
+  background-color:rgb(244,243,243);
+  padding: 10px;
+}
+
+.col-lg-5.col-lg-offset-0.col-md-3{
+
+
+}
+
+#news-feed h1{
+  background-color:#7a0101;
+  width:300px;
+  text-align:center;
+  border-bottom:5px solid black;
+  color:white;
+  cursor:pointer;
+}
+
+#news-feed h1:hover{
+  background-color:white;
+  color:black;
+}
+
+.media{
+
+  padding: 10px;
+}
+
+#page{
+  text-align:center;
+  padding:50px;
+}
+
+hr{
+  background-color:rgb(214,214,214);
+}
+
+#page .show{
+  font-size:20px;
+  text-align:center;
+}
+
+ marquee{
+
+  font-size: 25px;
+  background-color:#7a0101; 
+  color: white;
+  width: 82%;
+  margin-left: 9%;
+  padding: 5px;
+
+}
+
